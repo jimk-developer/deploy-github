@@ -1,11 +1,11 @@
 {
   "homepage": "https://jimk-developer/github.io/deploy-github",
-  "name": "deploy-github",
+  "name": "react-quiz-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
